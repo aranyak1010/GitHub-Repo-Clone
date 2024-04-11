@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+  
+  .repo-header {
+    margin-top:90px;
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-bottom: 1px solid #ffffff;
+  }
+  
+  .repo-title {
+    margin-bottom: 5px;
+    font-weight:600;
+  }
+  .name{
+    font-weight:100;
+  }
+  .repo-description {
+    font-family: sans-serif;
+    color: #6b6969;
+  }
+  .repo-owner-avatar{
+    float:right;
+    height:150px;
+    margin-right:800px;
+}
+.contribute{
+    color:rgb(134, 130, 130);
+}
+.issue{
+    color:rgb(134, 130, 130);
+}
+.stars{
+    color:rgb(134, 130, 130);
+}
+.fork{
+    color:rgb(134, 130, 130);
+}
+.fork-image{
+    height:30px;
+    width:30px;
+    float:right;
+    margin-right:10px;
+    opacity:0.5;
+}
+.stars-image{
+    height:30px;
+    width:30px;
+    margin-right:10px;
+    opacity:0.8;
+}
+.issue-image{
+    height:30px;
+    width:30px;
+    margin-right:10px;
+    opacity:0.8;
+}
+.contribute-image{
+    height:30px;
+    width:30px;
+    margin-right:10px;
+    opacity:0.8;
+}
+.github-logo{
+    width:40px;
+    height:40px;
+    opacity:0.5;
+    float:right;
+    margin-right:800px;
+}
+hr{
+      height: 30px; 
+      background-color: red; 
+      border: none;
+      margin-top:120px; 
+    }
+  
+  
